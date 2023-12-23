@@ -1,0 +1,11 @@
+{
+  "name": "correlation",
+  "version": "1.0.0",
+  "description": "Calculate correlation of two datasets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A. Abo Zaid",
+  "license": "ISC"
+}
